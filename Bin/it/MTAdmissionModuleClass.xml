@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MTAdmissionModuleClass
+</name>
+</assembly>
+<members>
+<member name="P:MTAdmissionModuleClass.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MTAdmissionModuleClass.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MTAdmissionModuleClass.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:MTAdmissionModuleClass.ClsCommon.MathsCommon">
+  Integer/Float Properties
+
+</member><member name="M:MTAdmissionModuleClass.ClsCommon.FunFetch">
+	<summary>
+ This function is used to fetch data by Id or all data
+ </summary>
+	<returns>Datatable</returns>
+</member><member name="M:MTAdmissionModuleClass.ClsCommon.FunSave">
+	<summary>
+ This function is used Save data
+ </summary>
+	<returns>True/False</returns>
+</member><member name="M:MTAdmissionModuleClass.ClsCommon.FunDelete">
+	<summary>
+ This function is used to delete record
+ </summary>
+	<returns>True/False</returns>
+</member>
+</members>
+</doc>

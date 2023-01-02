@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MTConfigModuleClass
+</name>
+</assembly>
+<members>
+<member name="P:MTConfigModuleClass.ClsCommon.StreamShortDescCommon">
+ *********************EOF partners
+
+</member><member name="M:MTConfigModuleClass.ClsCommon.FunFetch">
+	<summary>
+ This function is used to fetch data by Id or all data
+ </summary>
+	<returns>Datatable</returns>
+</member><member name="M:MTConfigModuleClass.ClsCommon.FunSave">
+	<summary>
+ This function is used Save data
+ </summary>
+	<returns>True/False</returns>
+</member><member name="M:MTConfigModuleClass.ClsCommon.FunDelete">
+	<summary>
+ This function is used to delete record
+ </summary>
+	<returns>True/False</returns>
+</member><member name="T:MTConfigModuleClass.ClsMaster.clsDiscount">
+ Error Msg Implemented Start
+ 
+
+</member><member name="T:MTConfigModuleClass.ClsMaster.clsStream">
+ Error Msg End Implemented
+
+</member><member name="P:MTConfigModuleClass.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MTConfigModuleClass.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MTConfigModuleClass.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:MTConfigModuleClass.ClsMaster.clsPradnyaabc">
+ EOF *****************************
+
+</member>
+</members>
+</doc>
